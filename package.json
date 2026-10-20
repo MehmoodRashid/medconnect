@@ -1,7 +1,7 @@
 {
   "name": "medconnect",
   "version": "1.0.0",
-  "description": "",
+  "description": "MedConnect FYP-I: symptom-based specialty recommendation and doctor appointments",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "private": "true",
+  "private": true,
   "workspaces": [
     "client",
     "server"
