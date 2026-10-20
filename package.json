@@ -4,7 +4,8 @@
   "description": "MedConnect FYP-I: symptom-based specialty recommendation and doctor appointments",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:client": "npm run dev -w client"
   },
   "keywords": [],
   "author": "",
